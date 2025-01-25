@@ -1,0 +1,20 @@
+{
+    "date": "2024-04-13T08:30:00Z",
+    "currencies": [
+      {
+        "from": "USD",
+        "to": "SGD",
+        "rate": 0.74
+      },
+      {
+        "from": "USD",
+        "to": "INR",
+        "rate": 0.012
+      },
+      {
+        "from": "USD",
+        "to": "EUR",
+        "rate": 0.96
+      }
+    ]
+  }
