@@ -1,0 +1,105 @@
+{
+  "date" : "2025-02-23T06:23:26Z",
+  "currencies" : [
+    {
+      "from" : "USD",
+      "to" : "AED",
+      "rate" : 3.673
+    },
+    {
+      "from" : "USD",
+      "to" : "AUD",
+      "rate" : 1.57356412
+    },
+    {
+      "from" : "USD",
+      "to" : "BRL",
+      "rate" : 5.7027
+    },
+    {
+      "from" : "USD",
+      "to" : "CAD",
+      "rate" : 1.42365
+    },
+    {
+      "from" : "USD",
+      "to" : "CHF",
+      "rate" : 0.8979576
+    },
+    {
+      "from" : "USD",
+      "to" : "CNY",
+      "rate" : 7.25100064
+    },
+    {
+      "from" : "USD",
+      "to" : "EUR",
+      "rate" : 0.95561183
+    },
+    {
+      "from" : "USD",
+      "to" : "GBP",
+      "rate" : 0.791640279
+    },
+    {
+      "from" : "USD",
+      "to" : "HKD",
+      "rate" : 7.77005
+    },
+    {
+      "from" : "USD",
+      "to" : "IDR",
+      "rate" : 16355.25
+    },
+    {
+      "from" : "USD",
+      "to" : "INR",
+      "rate" : 86.64925
+    },
+    {
+      "from" : "USD",
+      "to" : "JPY",
+      "rate" : 149.225
+    },
+    {
+      "from" : "USD",
+      "to" : "KRW",
+      "rate" : 1436.835
+    },
+    {
+      "from" : "USD",
+      "to" : "MYR",
+      "rate" : 4.41849902
+    },
+    {
+      "from" : "USD",
+      "to" : "NZD",
+      "rate" : 1.741554
+    },
+    {
+      "from" : "USD",
+      "to" : "PHP",
+      "rate" : 57.8755618
+    },
+    {
+      "from" : "USD",
+      "to" : "RUB",
+      "rate" : 88.44862
+    },
+    {
+      "from" : "USD",
+      "to" : "SGD",
+      "rate" : 1.3352
+    },
+    {
+      "from" : "USD",
+      "to" : "THB",
+      "rate" : 33.5599976
+    },
+    {
+      "from" : "USD",
+      "to" : "VND",
+      "rate" : 25524.9851
+    }
+  ]
+}
