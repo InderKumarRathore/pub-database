@@ -1,105 +1,105 @@
 {
-  "date" : "2025-02-23T06:23:26Z",
+  "lastUpdated" : "2025-04-19T10:00:23Z",
   "currencies" : [
     {
       "from" : "USD",
       "to" : "AED",
-      "rate" : 3.673
+      "rate" : 3.67300014
     },
     {
       "from" : "USD",
       "to" : "AUD",
-      "rate" : 1.57356412
+      "rate" : 1.565778
     },
     {
       "from" : "USD",
       "to" : "BRL",
-      "rate" : 5.7027
+      "rate" : 5.8559
     },
     {
       "from" : "USD",
       "to" : "CAD",
-      "rate" : 1.42365
+      "rate" : 1.38413094
     },
     {
       "from" : "USD",
       "to" : "CHF",
-      "rate" : 0.8979576
+      "rate" : 0.81849
     },
     {
       "from" : "USD",
       "to" : "CNY",
-      "rate" : 7.25100064
+      "rate" : 7.3
     },
     {
       "from" : "USD",
       "to" : "EUR",
-      "rate" : 0.95561183
+      "rate" : 0.879318001
     },
     {
       "from" : "USD",
       "to" : "GBP",
-      "rate" : 0.791640279
+      "rate" : 0.753835
     },
     {
       "from" : "USD",
       "to" : "HKD",
-      "rate" : 7.77005
+      "rate" : 7.76316
     },
     {
       "from" : "USD",
       "to" : "IDR",
-      "rate" : 16355.25
+      "rate" : 16863.85
     },
     {
       "from" : "USD",
       "to" : "INR",
-      "rate" : 86.64925
+      "rate" : 85.3872525
     },
     {
       "from" : "USD",
       "to" : "JPY",
-      "rate" : 149.225
+      "rate" : 142.3845
     },
     {
       "from" : "USD",
       "to" : "KRW",
-      "rate" : 1436.835
+      "rate" : 1418.39
     },
     {
       "from" : "USD",
       "to" : "MYR",
-      "rate" : 4.41849902
+      "rate" : 4.40749786
     },
     {
       "from" : "USD",
       "to" : "NZD",
-      "rate" : 1.741554
+      "rate" : 1.68414
     },
     {
       "from" : "USD",
       "to" : "PHP",
-      "rate" : 57.8755618
+      "rate" : 56.7125
     },
     {
       "from" : "USD",
       "to" : "RUB",
-      "rate" : 88.44862
+      "rate" : 82.1743328
     },
     {
       "from" : "USD",
       "to" : "SGD",
-      "rate" : 1.3352
+      "rate" : 1.31140507
     },
     {
       "from" : "USD",
       "to" : "THB",
-      "rate" : 33.5599976
+      "rate" : 33.3499972
     },
     {
       "from" : "USD",
       "to" : "VND",
-      "rate" : 25524.9851
+      "rate" : 25869.9415
     }
   ]
 }
