@@ -1,104 +1,109 @@
 {
-  "lastUpdated" : "2025-04-19T10:00:23Z",
+  "lastUpdated" : "2025-04-20T04:22:19Z",
   "currencies" : [
     {
-      "from" : "USD",
-      "to" : "AED",
+      "source" : "USD",
+      "target" : "AED",
       "rate" : 3.67300014
     },
     {
-      "from" : "USD",
-      "to" : "AUD",
+      "source" : "USD",
+      "target" : "AUD",
       "rate" : 1.565778
     },
     {
-      "from" : "USD",
-      "to" : "BRL",
+      "source" : "USD",
+      "target" : "BRL",
       "rate" : 5.8559
     },
     {
-      "from" : "USD",
-      "to" : "CAD",
+      "source" : "USD",
+      "target" : "CAD",
       "rate" : 1.38413094
     },
     {
-      "from" : "USD",
-      "to" : "CHF",
+      "source" : "USD",
+      "target" : "CHF",
       "rate" : 0.81849
     },
     {
-      "from" : "USD",
-      "to" : "CNY",
+      "source" : "USD",
+      "target" : "CNY",
       "rate" : 7.3
     },
     {
-      "from" : "USD",
-      "to" : "EUR",
+      "source" : "USD",
+      "target" : "EUR",
       "rate" : 0.879318001
     },
     {
-      "from" : "USD",
-      "to" : "GBP",
+      "source" : "USD",
+      "target" : "GBP",
       "rate" : 0.753835
     },
     {
-      "from" : "USD",
-      "to" : "HKD",
+      "source" : "USD",
+      "target" : "HKD",
       "rate" : 7.76316
     },
     {
-      "from" : "USD",
-      "to" : "IDR",
+      "source" : "USD",
+      "target" : "IDR",
       "rate" : 16863.85
     },
     {
-      "from" : "USD",
-      "to" : "INR",
+      "source" : "USD",
+      "target" : "INR",
       "rate" : 85.3872525
     },
     {
-      "from" : "USD",
-      "to" : "JPY",
+      "source" : "USD",
+      "target" : "JPY",
       "rate" : 142.3845
     },
     {
-      "from" : "USD",
-      "to" : "KRW",
+      "source" : "USD",
+      "target" : "KRW",
       "rate" : 1418.39
     },
     {
-      "from" : "USD",
-      "to" : "MYR",
+      "source" : "USD",
+      "target" : "MYR",
       "rate" : 4.40749786
     },
     {
-      "from" : "USD",
-      "to" : "NZD",
+      "source" : "USD",
+      "target" : "NZD",
       "rate" : 1.68414
     },
     {
-      "from" : "USD",
-      "to" : "PHP",
+      "source" : "USD",
+      "target" : "PHP",
       "rate" : 56.7125
     },
     {
-      "from" : "USD",
-      "to" : "RUB",
+      "source" : "USD",
+      "target" : "RUB",
       "rate" : 82.1743328
     },
     {
-      "from" : "USD",
-      "to" : "SGD",
+      "source" : "USD",
+      "target" : "SGD",
       "rate" : 1.31140507
     },
     {
-      "from" : "USD",
-      "to" : "THB",
+      "source" : "USD",
+      "target" : "THB",
       "rate" : 33.3499972
     },
     {
-      "from" : "USD",
-      "to" : "VND",
+      "source" : "USD",
+      "target" : "USD",
+      "rate" : 1
+    },
+    {
+      "source" : "USD",
+      "target" : "VND",
       "rate" : 25869.9415
     }
   ]
