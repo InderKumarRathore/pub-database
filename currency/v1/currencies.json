@@ -1,115 +1,115 @@
 {
-  "lastUpdated" : "2025-08-17T06:30:00Z",
+  "lastUpdated" : "2025-09-01T16:48:20Z",
   "currencies" : [
     {
       "source" : "USD",
       "target" : "AED",
-      "rate" : 3.67295023
+      "rate" : 3.6725
     },
     {
       "source" : "USD",
       "target" : "AUD",
-      "rate" : 1.53394231
+      "rate" : 1.52586726
     },
     {
       "source" : "USD",
       "target" : "BDT",
-      "rate" : 121.4542
+      "rate" : 121.539
     },
     {
       "source" : "USD",
       "target" : "BRL",
-      "rate" : 5.3928
+      "rate" : 5.4378
     },
     {
       "source" : "USD",
       "target" : "BTN",
-      "rate" : 87.42686
+      "rate" : 88.1136455
     },
     {
       "source" : "USD",
       "target" : "CAD",
-      "rate" : 1.38195
+      "rate" : 1.37552
     },
     {
       "source" : "USD",
       "target" : "CHF",
-      "rate" : 0.8067419
+      "rate" : 0.80125
     },
     {
       "source" : "USD",
       "target" : "CNY",
-      "rate" : 7.18025086
+      "rate" : 7.130801
     },
     {
       "source" : "USD",
       "target" : "CZK",
-      "rate" : 20.9044
+      "rate" : 20.871
     },
     {
       "source" : "USD",
       "target" : "DKK",
-      "rate" : 6.37640018
+      "rate" : 6.37732
     },
     {
       "source" : "USD",
       "target" : "EUR",
-      "rate" : 0.85425
+      "rate" : 0.854445251
     },
     {
       "source" : "USD",
       "target" : "GBP",
-      "rate" : 0.737735153
+      "rate" : 0.738295
     },
     {
       "source" : "USD",
       "target" : "HKD",
-      "rate" : 7.82401
+      "rate" : 7.79654753
     },
     {
       "source" : "USD",
       "target" : "HUF",
-      "rate" : 337.8
+      "rate" : 337.68
     },
     {
       "source" : "USD",
       "target" : "IDR",
-      "rate" : 16186.8349
+      "rate" : 16433.4216
     },
     {
       "source" : "USD",
       "target" : "ILS",
-      "rate" : 3.38188
+      "rate" : 3.3578
     },
     {
       "source" : "USD",
       "target" : "INR",
-      "rate" : 87.65115
+      "rate" : 87.99605
     },
     {
       "source" : "USD",
       "target" : "JPY",
-      "rate" : 146.851
+      "rate" : 147.230499
     },
     {
       "source" : "USD",
       "target" : "KRW",
-      "rate" : 1390.08011
+      "rate" : 1393.92444
     },
     {
       "source" : "USD",
       "target" : "KZT",
-      "rate" : 541.497
+      "rate" : 538.2696
     },
     {
       "source" : "USD",
       "target" : "LAK",
-      "rate" : 21634.0641
+      "rate" : 21681.674
     },
     {
       "source" : "USD",
       "target" : "LKR",
-      "rate" : 300.8896
+      "rate" : 301.743959
     },
     {
       "source" : "USD",
@@ -119,77 +119,77 @@
     {
       "source" : "USD",
       "target" : "MVR",
-      "rate" : 15.4085389
+      "rate" : 15.4
     },
     {
       "source" : "USD",
       "target" : "MXN",
-      "rate" : 18.743489
+      "rate" : 18.6539009
     },
     {
       "source" : "USD",
       "target" : "MYR",
-      "rate" : 4.213
+      "rate" : 4.22499805
     },
     {
       "source" : "USD",
       "target" : "NOK",
-      "rate" : 10.19562
+      "rate" : 9.992256
     },
     {
       "source" : "USD",
       "target" : "NPR",
-      "rate" : 139.8828
+      "rate" : 140.9954
     },
     {
       "source" : "USD",
       "target" : "NZD",
-      "rate" : 1.68715
+      "rate" : 1.694475
     },
     {
       "source" : "USD",
       "target" : "PHP",
-      "rate" : 56.1455833
+      "rate" : 57.1583716
     },
     {
       "source" : "USD",
       "target" : "PKR",
-      "rate" : 283.608292
+      "rate" : 283.3436
     },
     {
       "source" : "USD",
       "target" : "PLN",
-      "rate" : 3.658386
+      "rate" : 3.64015469
     },
     {
       "source" : "USD",
       "target" : "RUB",
-      "rate" : 80.1004139
+      "rate" : 80.57608
     },
     {
       "source" : "USD",
       "target" : "SEK",
-      "rate" : 9.5588
+      "rate" : 9.39328756
     },
     {
       "source" : "USD",
       "target" : "SGD",
-      "rate" : 1.28222504
+      "rate" : 1.284385
     },
     {
       "source" : "USD",
       "target" : "THB",
-      "rate" : 32.459
+      "rate" : 32.3125
     },
     {
       "source" : "USD",
       "target" : "TRY",
-      "rate" : 40.8336934
+      "rate" : 41.11692
     },
     {
       "source" : "USD",
       "target" : "TWD",
-      "rate" : 30.019
+      "rate" : 30.6224878
     },
     {
       "source" : "USD",
@@ -199,12 +199,12 @@
     {
       "source" : "USD",
       "target" : "VND",
-      "rate" : 26269.9553
+      "rate" : 26345
     },
     {
       "source" : "USD",
       "target" : "ZAR",
-      "rate" : 17.5952873
+      "rate" : 17.6294677
     }
   ]
 }
