@@ -1,0 +1,210 @@
+{
+  "lastUpdated" : "2025-09-13T01:54:22Z",
+  "currencies" : [
+    {
+      "source" : "USD",
+      "target" : "AED",
+      "rate" : 3.673
+    },
+    {
+      "source" : "USD",
+      "target" : "AUD",
+      "rate" : 1.506024
+    },
+    {
+      "source" : "USD",
+      "target" : "BDT",
+      "rate" : 121.735
+    },
+    {
+      "source" : "USD",
+      "target" : "BRL",
+      "rate" : 5.3677
+    },
+    {
+      "source" : "USD",
+      "target" : "BTN",
+      "rate" : 88.2308826
+    },
+    {
+      "source" : "USD",
+      "target" : "CAD",
+      "rate" : 1.38545
+    },
+    {
+      "source" : "USD",
+      "target" : "CHF",
+      "rate" : 0.797043288
+    },
+    {
+      "source" : "USD",
+      "target" : "CNY",
+      "rate" : 7.11864865
+    },
+    {
+      "source" : "USD",
+      "target" : "CZK",
+      "rate" : 20.7268
+    },
+    {
+      "source" : "USD",
+      "target" : "DKK",
+      "rate" : 6.36065
+    },
+    {
+      "source" : "USD",
+      "target" : "EUR",
+      "rate" : 0.852187993
+    },
+    {
+      "source" : "USD",
+      "target" : "GBP",
+      "rate" : 0.737626319
+    },
+    {
+      "source" : "USD",
+      "target" : "HKD",
+      "rate" : 7.7823
+    },
+    {
+      "source" : "USD",
+      "target" : "HUF",
+      "rate" : 333.08
+    },
+    {
+      "source" : "USD",
+      "target" : "IDR",
+      "rate" : 16416
+    },
+    {
+      "source" : "USD",
+      "target" : "ILS",
+      "rate" : 3.32254945
+    },
+    {
+      "source" : "USD",
+      "target" : "INR",
+      "rate" : 88.2734854
+    },
+    {
+      "source" : "USD",
+      "target" : "JPY",
+      "rate" : 147.6685
+    },
+    {
+      "source" : "USD",
+      "target" : "KRW",
+      "rate" : 1392.60987
+    },
+    {
+      "source" : "USD",
+      "target" : "KZT",
+      "rate" : 540.874713
+    },
+    {
+      "source" : "USD",
+      "target" : "LAK",
+      "rate" : 21675
+    },
+    {
+      "source" : "USD",
+      "target" : "LKR",
+      "rate" : 301.8154
+    },
+    {
+      "source" : "USD",
+      "target" : "MMK",
+      "rate" : 3247.961
+    },
+    {
+      "source" : "USD",
+      "target" : "MVR",
+      "rate" : 15.3098374
+    },
+    {
+      "source" : "USD",
+      "target" : "MXN",
+      "rate" : 18.4402
+    },
+    {
+      "source" : "USD",
+      "target" : "MYR",
+      "rate" : 4.205
+    },
+    {
+      "source" : "USD",
+      "target" : "NOK",
+      "rate" : 9.85959931
+    },
+    {
+      "source" : "USD",
+      "target" : "NPR",
+      "rate" : 141.175
+    },
+    {
+      "source" : "USD",
+      "target" : "NZD",
+      "rate" : 1.68043221
+    },
+    {
+      "source" : "USD",
+      "target" : "PHP",
+      "rate" : 57.17
+    },
+    {
+      "source" : "USD",
+      "target" : "PKR",
+      "rate" : 283.996835
+    },
+    {
+      "source" : "USD",
+      "target" : "PLN",
+      "rate" : 3.62705595
+    },
+    {
+      "source" : "USD",
+      "target" : "RUB",
+      "rate" : 83.75163
+    },
+    {
+      "source" : "USD",
+      "target" : "SEK",
+      "rate" : 9.31679912
+    },
+    {
+      "source" : "USD",
+      "target" : "SGD",
+      "rate" : 1.28389977
+    },
+    {
+      "source" : "USD",
+      "target" : "THB",
+      "rate" : 31.7394924
+    },
+    {
+      "source" : "USD",
+      "target" : "TRY",
+      "rate" : 41.3706938
+    },
+    {
+      "source" : "USD",
+      "target" : "TWD",
+      "rate" : 30.354495
+    },
+    {
+      "source" : "USD",
+      "target" : "USD",
+      "rate" : 1
+    },
+    {
+      "source" : "USD",
+      "target" : "VND",
+      "rate" : 26384.9458
+    },
+    {
+      "source" : "USD",
+      "target" : "ZAR",
+      "rate" : 17.3962994
+    }
+  ]
+}
